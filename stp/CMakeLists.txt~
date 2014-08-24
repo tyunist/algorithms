@@ -1,0 +1,28 @@
+cmake_minimum_required (VERSION 2.8)
+project (carTrack)
+
+# Set root repository variable
+set(BIN_PATH "~/car_project/bin")
+
+# This is used to find opencv library package that is required to build our program
+find_package (OpenCV REQUIRED)
+
+# Store binary file in bin_path
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${BIN_PATH}")
+
+# Add headers
+set(HEADER_PATH "~/car_project/include")
+file(GLOB HEADER_FILES "${HEADER_PATH}/*.h")
+include_directories(${HEADER_PATH})
+# Create executable file. if in order to create rrackObject, we need a number of .cpp files, just use: add_executable (carTrack *.cpp)
+add_executable (carTrack carTrack.cpp Timer.cpp DataCompute.cpp UdpClient.cpp strutils.cpp ${HEADER_FILES})
+
+# In order to run executable file, we need to target Opencv library link to it
+target_link_libraries (carTrack ${OpenCV_LIBS})
+
+# Test Script to manage program's variables 
+enable_testing()
+add_test(CARTRACKTEST
+	${BIN_PATH}/carTrack
+	    )
+

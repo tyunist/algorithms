@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/stp_linkedlist.dir/src/stp_linkedlist.cpp.o CMakeFiles/stp_linkedlist.dir/src/graph_class.cpp.o  -o ../bin/stp_linkedlist -rdynamic 

@@ -1,0 +1,28 @@
+Start testing: Aug 19 22:59 KST
+----------------------------------------------------------
+1/1 Testing: stp
+1/1 Test: stp
+Command: "/home/nuc/workplace/stp/bin/stp"
+Directory: /home/nuc/workplace/stp
+"stp" start time: Aug 19 22:59 KST
+Output:
+----------------------------------------------------------
+Vertex   Distance from Source
+0 		 0
+1 		 4
+2 		 12
+3 		 19
+4 		 21
+5 		 11
+6 		 9
+7 		 8
+8 		 14
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"stp" end time: Aug 19 22:59 KST
+"stp" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Aug 19 22:59 KST

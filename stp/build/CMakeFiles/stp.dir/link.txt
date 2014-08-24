@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/stp.dir/src/stp.cpp.o  -o ../bin/stp -rdynamic 

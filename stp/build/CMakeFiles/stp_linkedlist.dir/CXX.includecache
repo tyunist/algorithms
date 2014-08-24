@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nuc/workplace/stp/src/graph_class.h
+iostream
+-
+string.h
+/home/nuc/workplace/stp/src/string.h
+fstream
+/home/nuc/workplace/stp/src/fstream
+cmath
+-
+vector
+-
+
+/home/nuc/workplace/stp/src/stp_linkedlist.cpp
+stdio.h
+-
+limits.h
+-
+iostream
+-
+vector
+-
+graph_class.h
+/home/nuc/workplace/stp/src/graph_class.h
+fstream
+-
+
