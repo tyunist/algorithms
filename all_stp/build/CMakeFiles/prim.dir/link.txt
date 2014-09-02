@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/prim.dir/src/prim.cpp.o  -o ../bin/prim -rdynamic 
