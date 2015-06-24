@@ -26,7 +26,7 @@ void floydWarshell(int graph[][V])
 	for(i = 0; i < V; i++)
 		for(j = 0; j < V; j ++)
 		{
-			if(graph[i][j] == 0) path[i][j] = i;
+			if(graph[i][j] == 0) path[i][i] = i;
 			else if(graph[i][j] == INF) path[i][j] = INF;
 			else path[i][j] = j;
 		}

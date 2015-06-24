@@ -1,0 +1,47 @@
+FUNCTION:
+This program is a simulation of a car learning the proper acceleration to
+get up a mountain.  It uses Q-learning with CMAC as a function
+approximator.  It is based on papers by Rich Sutton and Satinder Singh and
+was developed by Sridhar Mahadevan.
+
+REQUIREMENTS:  This program requires a C++ compiler and the X11 windowing
+libraries and include files.
+
+
+INSTALLATION:
+To install:
+
+1. Edit the file Makefile, and change the line that begins:
+	   INCLUDE =
+       to the X11 include file path on your system.
+
+2. Set the loader library path environment variable to the X11 library
+   path on your system:
+	setenv LD_LIBRARY_PATH <X11-lib-path> 
+
+3. Type make.  The executable will be called "xcar"
+
+4. To run the program with the pre-defined defaults, type "xcar".  
+   To change the defaults, see the next section, INPUT.
+
+
+INPUT:
+
+	By default, one run of 1,000 trials is done.  The simulation
+parameters (which are particular to this car implementation) are in the
+mc.h file.  The reinforcement learning parameters are in qlearn-cmac.cpp. 
+Of course, you must execute the "make" command again after you change any
+parameter.
+
+
+OUTPUT:
+   A new window with a visual display of the current action of the
+simulation will be displayed, while the window from which it was launched
+will show (text) the position and velocity interval values.
+
+   The best ongoing qvalues are written to the data files "qvalue-x-y",
+where x is the run number, and y is the trial number.  A new data file is
+started for every 100 trials. 	
+
+
+BUGS AND LIMITATIONS:

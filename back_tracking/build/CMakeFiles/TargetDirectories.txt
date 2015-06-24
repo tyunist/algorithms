@@ -1,0 +1,1 @@
+/home/tynguyen/algorithms/back_tracking/build/CMakeFiles/knight_tour.dir

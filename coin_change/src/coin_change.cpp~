@@ -1,0 +1,25 @@
+/* This program implements dynamic programming algorithm to solve coin_change problem.
+	Last edited at 15:21 PM 05 December, 2014 by tynguyen
+ */
+#include <stdio.h>
+#include <iostream>
+#include <fstream>
+#include <vector>
+using namespace std;
+
+#ifndef V
+#define V 4
+#endif
+#define INF 99999
+
+
+int main()
+{
+	//int graph[V][V] = { {0,   4,  INF, 3},
+	//		             {INF, 0,   1, 6},
+	//                     {5, INF, 0,   1}, 
+	//					 {INF, INF, INF, 0}
+	//                   };
+	floydWarshell(graph);
+	return 0;
+}

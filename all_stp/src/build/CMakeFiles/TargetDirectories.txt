@@ -1,0 +1,3 @@
+/home/nuc/workplace/all_stp/build/CMakeFiles/all_stp_linkedlist.dir
+/home/nuc/workplace/all_stp/build/CMakeFiles/all_stp_matrix.dir
+/home/nuc/workplace/all_stp/build/CMakeFiles/prim.dir

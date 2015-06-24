@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/tynguyen/algorithms/back_tracking/src/knight_tour.cpp
+stdio.h
+-
+stdio.h
+-
+iostream
+-
+fstream
+-
+vector
+-
+

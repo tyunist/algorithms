@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/all_stp_matrix.dir/src/all_stp_matrix.cpp.o  -o ../bin/all_stp_matrix -rdynamic 
