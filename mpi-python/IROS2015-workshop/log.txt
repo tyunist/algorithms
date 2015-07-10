@@ -1,0 +1,2701 @@
+main function running
+User entered gui_on and vel_on:1 and 1
+simulator process...Initializing
+main function running
+User entered gui_on and vel_on:1 and 1
+plan generator process. First step...do nothing..
+This is the planner process
+cannot delete all two files...passing
+plan_config[0]:  [125, 21, 12, 75]
+GUI ON
+Now: 3.71932983398e-05 - count:  1 - on task 1 before sending:    data =  [1 0]
+on task 1 before recv:   data =  [0]
+This is simulator's thread
+On simulator before recv:   data =  [0 0]
+On simulator after recv:    sent=  [1 0]
+On simulator, before sending:    recv =  [10]
+plan number 0
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.26584815979 - count:  2 - on task 1 before sending:    data =  [2 0]
+simTime: 0.000305891036987 realTime: 0.1 segment: 1 pos: 172.399559517 vref: 24 vel: 23.9715995739
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [1 0]
+On simulator after recv:    sent=  [2 0]
+On simulator, before sending:    recv =  [10]
+plan number 0
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.357704162598 - count:  3 - on task 1 before sending:    data =  [3 0]
+simTime: 0.0921850204468 realTime: 0.2 segment: 1 pos: 176.731633733 vref: 42 vel: 43.2774214156
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [2 0]
+On simulator after recv:    sent=  [3 0]
+On simulator, before sending:    recv =  [10]
+plan number 1
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.423031330109 - count:  4 - on task 1 before sending:    data =  [4 0]
+simTime: 0.157513141632 realTime: 0.3 segment: 1 pos: 181.057031825 vref: 42 vel: 43.210726944
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [3 0]
+On simulator after recv:    sent=  [4 0]
+On simulator, before sending:    recv =  [10]
+plan number 1
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 0.222884178162 realTime: 0.4 segment: 1 pos: 185.3760982 vref: 42 vel: 43.1474730809
+Now: 0.488432407379 - count:  5 - on task 1 before sending:    data =  [5 0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [4 0]
+On simulator after recv:    sent=  [5 0]
+On simulator, before sending:    recv =  [10]
+plan number 1
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.553757429123 - count:  6 - on task 1 before sending:    data =  [6 0]
+simTime: 0.288240194321 realTime: 0.5 segment: 1 pos: 189.689165033 vref: 42 vel: 43.0875376609
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [5 0]
+On simulator after recv:    sent=  [6 0]
+On simulator, before sending:    recv =  [10]
+plan number 1
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.619059324265 - count:  7 - on task 1 before sending:    data =  [7 0]
+simTime: 0.353540182114 realTime: 0.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [6 0]
+On simulator after recv:    sent=  [7 0]
+On simulator, before sending:    recv =  [10]
+plan number 2
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.684456348419 - count:  8 - on task 1 before sending:    data =  [8 0]
+simTime: 0.418935060501 realTime: 0.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [7 0]
+On simulator after recv:    sent=  [8 0]
+On simulator, before sending:    recv =  [10]
+plan number 2
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.749911546707 - count:  9 - on task 1 before sending:    data =  [9 0]
+simTime: 0.484388828278 realTime: 0.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [8 0]
+On simulator after recv:    sent=  [9 0]
+On simulator, before sending:    recv =  [10]
+plan number 2
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.815335512161 - count:  10 - on task 1 before sending:    data =  [10  0]
+simTime: 0.549811840057 realTime: 0.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [9 0]
+On simulator after recv:    sent=  [10  0]
+On simulator, before sending:    recv =  [10]
+plan number 2
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.894649505615 - count:  11 - on task 1 before sending:    data =  [11  0]
+simTime: 0.629120826721 realTime: 1.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [10  0]
+On simulator after recv:    sent=  [11  0]
+On simulator, before sending:    recv =  [10]
+plan number 3
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 0.960100650787 - count:  12 - on task 1 before sending:    data =  [12  0]
+simTime: 0.694573879242 realTime: 1.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [11  0]
+On simulator after recv:    sent=  [12  0]
+On simulator, before sending:    recv =  [10]
+plan number 3
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.02562069893 - count:  13 - on task 1 before sending:    data =  [13  0]
+simTime: 0.760089874268 realTime: 1.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [12  0]
+On simulator after recv:    sent=  [13  0]
+On simulator, before sending:    recv =  [10]
+plan number 3
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.09105372429 - count:  14 - on task 1 before sending:    data =  [14  0]
+simTime: 0.825525760651 realTime: 1.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [13  0]
+On simulator after recv:    sent=  [14  0]
+On simulator, before sending:    recv =  [10]
+plan number 3
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 0.890993595123 realTime: 1.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 1.15652561188 - count:  15 - on task 1 before sending:    data =  [15  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [14  0]
+On simulator after recv:    sent=  [15  0]
+On simulator, before sending:    recv =  [10]
+plan number 4
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.22199058533 - count:  16 - on task 1 before sending:    data =  [16  0]
+simTime: 0.956462621689 realTime: 1.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [15  0]
+On simulator after recv:    sent=  [16  0]
+On simulator, before sending:    recv =  [10]
+plan number 4
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.2875585556 - count:  17 - on task 1 before sending:    data =  [17  0]
+simTime: 1.02202939987 realTime: 1.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [16  0]
+On simulator after recv:    sent=  [17  0]
+On simulator, before sending:    recv =  [10]
+plan number 4
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.35292649269 - count:  18 - on task 1 before sending:    data =  [18  0]
+simTime: 1.08739924431 realTime: 1.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [17  0]
+On simulator after recv:    sent=  [18  0]
+On simulator, before sending:    recv =  [10]
+plan number 4
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 1.1529314518 realTime: 1.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 1.41846251488 - count:  19 - on task 1 before sending:    data =  [19  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [18  0]
+On simulator after recv:    sent=  [19  0]
+On simulator, before sending:    recv =  [10]
+plan number 5
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.48390245438 - count:  20 - on task 1 before sending:    data =  [20  0]
+simTime: 1.21837329865 realTime: 1.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [19  0]
+On simulator after recv:    sent=  [20  0]
+on task 1 after recv:    data =  [10]
+Now: 1.54929041862 - count:  21 - on task 1 before sending:    data =  [21  0]
+on task 1 before recv:   data =  [10]
+On simulator, before sending:    recv =  [10]
+plan number 5
+Two segment are parallel
+simTime: 1.28376221657 realTime: 2.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+On simulator before recv:   data =  [20  0]
+On simulator after recv:    sent=  [21  0]
+On simulator, before sending:    recv =  [10]
+plan number 5
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.61469841003 - count:  22 - on task 1 before sending:    data =  [22  0]
+simTime: 1.34917116165 realTime: 2.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [21  0]
+On simulator after recv:    sent=  [22  0]
+On simulator, before sending:    recv =  [10]
+plan number 5
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.68006038666 - count:  23 - on task 1 before sending:    data =  [23  0]
+simTime: 1.41453504562 realTime: 2.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [22  0]
+On simulator after recv:    sent=  [23  0]
+On simulator, before sending:    recv =  [10]
+plan number 6
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.74542951584 - count:  24 - on task 1 before sending:    data =  [24  0]
+simTime: 1.47990322113 realTime: 2.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [23  0]
+On simulator after recv:    sent=  [24  0]
+On simulator, before sending:    recv =  [10]
+on task 1 after recv:    data =  [10]
+Now: 1.81079936028 - count:  25 - on task 1 before sending:    data =  [25  0]
+on task 1 before recv:   data =  [10]
+plan number 6
+Two segment are parallel
+simTime: 1.54527020454 realTime: 2.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+On simulator before recv:   data =  [24  0]
+On simulator after recv:    sent=  [25  0]
+On simulator, before sending:    recv =  [10]
+plan number 6
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.8767323494 - count:  26 - on task 1 before sending:    data =  [26  0]
+simTime: 1.61120510101 realTime: 2.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [25  0]
+On simulator after recv:    sent=  [26  0]
+On simulator, before sending:    recv =  [10]
+plan number 6
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 1.94210743904 - count:  27 - on task 1 before sending:    data =  [27  0]
+simTime: 1.67657899857 realTime: 2.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [26  0]
+On simulator after recv:    sent=  [27  0]
+On simulator, before sending:    recv =  [10]
+plan number 7
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 2.00761032104 - count:  28 - on task 1 before sending:    data =  [28  0]
+simTime: 1.74208116531 realTime: 2.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [27  0]
+On simulator after recv:    sent=  [28  0]
+On simulator, before sending:    recv =  [10]
+plan number 7
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 1.80745220184 realTime: 2.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 2.07298231125 - count:  29 - on task 1 before sending:    data =  [29  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [28  0]
+On simulator after recv:    sent=  [29  0]
+On simulator, before sending:    recv =  [10]
+plan number 7
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 1.87277913094 realTime: 2.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 2.13831329346 - count:  30 - on task 1 before sending:    data =  [30  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [29  0]
+On simulator after recv:    sent=  [30  0]
+On simulator, before sending:    recv =  [10]
+plan number 7
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 2.20372629166 - count:  31 - on task 1 before sending:    data =  [31  0]
+simTime: 1.93819594383 realTime: 3.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [30  0]
+On simulator after recv:    sent=  [31  0]
+On simulator, before sending:    recv =  [10]
+plan number 8
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 2.00392985344 realTime: 3.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 2.26946234703 - count:  32 - on task 1 before sending:    data =  [32  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [31  0]
+On simulator after recv:    sent=  [32  0]
+On simulator, before sending:    recv =  [10]
+plan number 8
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 2.06927585602 realTime: 3.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 2.33480930328 - count:  33 - on task 1 before sending:    data =  [33  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [32  0]
+On simulator after recv:    sent=  [33  0]
+On simulator, before sending:    recv =  [10]
+plan number 8
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 2.40024542809 - count:  34 - on task 1 before sending:    data =  [34  0]
+simTime: 2.13471364975 realTime: 3.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [33  0]
+On simulator after recv:    sent=  [34  0]
+On simulator, before sending:    recv =  [10]
+plan number 8
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 2.46560549736 - count:  35 - on task 1 before sending:    data =  [35  0]
+simTime: 2.20007348061 realTime: 3.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [34  0]
+On simulator after recv:    sent=  [35  0]
+On simulator, before sending:    recv =  [10]
+plan number 9
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 2.53095841408 - count:  36 - on task 1 before sending:    data =  [36  0]
+simTime: 2.26542544365 realTime: 3.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [35  0]
+On simulator after recv:    sent=  [36  0]
+On simulator, before sending:    recv =  [10]
+plan number 9
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 2.33082938194 realTime: 3.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 2.59636330605 - count:  37 - on task 1 before sending:    data =  [37  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [36  0]
+On simulator after recv:    sent=  [37  0]
+On simulator, before sending:    recv =  [10]
+plan number 9
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 2.66167330742 - count:  38 - on task 1 before sending:    data =  [38  0]
+simTime: 2.39614129066 realTime: 3.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [37  0]
+On simulator after recv:    sent=  [38  0]
+On simulator, before sending:    recv =  [10]
+plan number 9
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 2.72704029083 - count:  39 - on task 1 before sending:    data =  [39  0]
+simTime: 2.46150636673 realTime: 3.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [38  0]
+On simulator after recv:    sent=  [39  0]
+On simulator, before sending:    recv =  [10]
+plan number 10
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 2.79240727425 - count:  40 - on task 1 before sending:    data =  [40  0]
+simTime: 2.52687430382 realTime: 3.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [39  0]
+On simulator after recv:    sent=  [40  0]
+On simulator, before sending:    recv =  [10]
+plan number 10
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 2.59219622612 realTime: 4.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 2.85774230957 - count:  41 - on task 1 before sending:    data =  [41  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [40  0]
+On simulator after recv:    sent=  [41  0]
+On simulator, before sending:    recv =  [10]
+plan number 10
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 2.67120623589 realTime: 4.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 2.93674635887 - count:  42 - on task 1 before sending:    data =  [42  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [41  0]
+On simulator after recv:    sent=  [42  0]
+On simulator, before sending:    recv =  [10]
+plan number 10
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 2.73655223846 realTime: 4.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 3.00208926201 - count:  43 - on task 1 before sending:    data =  [43  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [42  0]
+On simulator after recv:    sent=  [43  0]
+On simulator, before sending:    recv =  [10]
+plan number 11
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.06742739677 - count:  44 - on task 1 before sending:    data =  [44  0]
+simTime: 2.80189013481 realTime: 4.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [43  0]
+On simulator after recv:    sent=  [44  0]
+On simulator, before sending:    recv =  [10]
+plan number 11
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 2.86726593971 realTime: 4.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 3.13280940056 - count:  45 - on task 1 before sending:    data =  [45  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [44  0]
+On simulator after recv:    sent=  [45  0]
+On simulator, before sending:    recv =  [10]
+plan number 11
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.19813036919 - count:  46 - on task 1 before sending:    data =  [46  0]
+simTime: 2.93259096146 realTime: 4.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [45  0]
+On simulator after recv:    sent=  [46  0]
+On simulator, before sending:    recv =  [10]
+plan number 11
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.26343822479 - count:  47 - on task 1 before sending:    data =  [47  0]
+simTime: 2.99789881706 realTime: 4.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [46  0]
+On simulator after recv:    sent=  [47  0]
+On simulator, before sending:    recv =  [10]
+plan number 12
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.32875132561 - count:  48 - on task 1 before sending:    data =  [48  0]
+simTime: 3.06321287155 realTime: 4.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [47  0]
+On simulator after recv:    sent=  [48  0]
+On simulator, before sending:    recv =  [10]
+plan number 12
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 3.12866282463 realTime: 4.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 3.3942053318 - count:  49 - on task 1 before sending:    data =  [49  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [48  0]
+On simulator after recv:    sent=  [49  0]
+On simulator, before sending:    recv =  [10]
+plan number 12
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.45960950851 - count:  50 - on task 1 before sending:    data =  [50  0]
+simTime: 3.19406890869 realTime: 4.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [49  0]
+On simulator after recv:    sent=  [50  0]
+On simulator, before sending:    recv =  [10]
+plan number 12
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.52497243881 - count:  51 - on task 1 before sending:    data =  [51  0]
+simTime: 3.25943088531 realTime: 5.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [50  0]
+On simulator after recv:    sent=  [51  0]
+On simulator, before sending:    recv =  [10]
+plan number 13
+Two segment are parallel
+simTime: 3.32476973534 realTime: 5.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 after recv:    data =  [10]
+Now: 3.5903134346 - count:  52 - on task 1 before sending:    data =  [52  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [51  0]
+On simulator after recv:    sent=  [52  0]
+On simulator, before sending:    recv =  [10]
+plan number 13
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.65566849709 - count:  53 - on task 1 before sending:    data =  [53  0]
+simTime: 3.3901257515 realTime: 5.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [52  0]
+On simulator after recv:    sent=  [53  0]
+On simulator, before sending:    recv =  [10]
+plan number 13
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.72101163864 - count:  54 - on task 1 before sending:    data =  [54  0]
+simTime: 3.45546865463 realTime: 5.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [53  0]
+On simulator after recv:    sent=  [54  0]
+On simulator, before sending:    recv =  [10]
+plan number 13
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.7863714695 - count:  55 - on task 1 before sending:    data =  [55  0]
+simTime: 3.52083086967 realTime: 5.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [54  0]
+On simulator after recv:    sent=  [55  0]
+On simulator, before sending:    recv =  [10]
+plan number 14
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.8517935276 - count:  56 - on task 1 before sending:    data =  [56  0]
+simTime: 3.58624982834 realTime: 5.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [55  0]
+On simulator after recv:    sent=  [56  0]
+On simulator, before sending:    recv =  [10]
+plan number 14
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.91713953018 - count:  57 - on task 1 before sending:    data =  [57  0]
+simTime: 3.65159583092 realTime: 5.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [56  0]
+On simulator after recv:    sent=  [57  0]
+On simulator, before sending:    recv =  [10]
+plan number 14
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 3.98254847527 - count:  58 - on task 1 before sending:    data =  [58  0]
+simTime: 3.71700382233 realTime: 5.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [57  0]
+On simulator after recv:    sent=  [58  0]
+On simulator, before sending:    recv =  [10]
+plan number 14
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.04787945747 - count:  59 - on task 1 before sending:    data =  [59  0]
+simTime: 3.78233575821 realTime: 5.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [58  0]
+On simulator after recv:    sent=  [59  0]
+On simulator, before sending:    recv =  [10]
+plan number 15
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.11326050758 - count:  60 - on task 1 before sending:    data =  [60  0]
+simTime: 3.84771370888 realTime: 5.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [59  0]
+On simulator after recv:    sent=  [60  0]
+On simulator, before sending:    recv =  [10]
+plan number 15
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 3.91299676895 realTime: 6.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 4.17854952812 - count:  61 - on task 1 before sending:    data =  [61  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [60  0]
+On simulator after recv:    sent=  [61  0]
+On simulator, before sending:    recv =  [10]
+plan number 15
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.24391531944 - count:  62 - on task 1 before sending:    data =  [62  0]
+simTime: 3.97836780548 realTime: 6.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [61  0]
+On simulator after recv:    sent=  [62  0]
+On simulator, before sending:    recv =  [10]
+plan number 15
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.30930614471 - count:  63 - on task 1 before sending:    data =  [63  0]
+simTime: 4.04375886917 realTime: 6.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [62  0]
+On simulator after recv:    sent=  [63  0]
+On simulator, before sending:    recv =  [10]
+plan number 16
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.37485814095 - count:  64 - on task 1 before sending:    data =  [64  0]
+simTime: 4.1093108654 realTime: 6.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [63  0]
+On simulator after recv:    sent=  [64  0]
+On simulator, before sending:    recv =  [10]
+plan number 16
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.44023013115 - count:  65 - on task 1 before sending:    data =  [65  0]
+simTime: 4.17468190193 realTime: 6.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [64  0]
+On simulator after recv:    sent=  [65  0]
+On simulator, before sending:    recv =  [10]
+plan number 16
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.50563120842 - count:  66 - on task 1 before sending:    data =  [66  0]
+simTime: 4.24007987976 realTime: 6.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [65  0]
+On simulator after recv:    sent=  [66  0]
+On simulator, before sending:    recv =  [10]
+plan number 16
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 4.30546998978 realTime: 6.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 4.57102918625 - count:  67 - on task 1 before sending:    data =  [67  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [66  0]
+On simulator after recv:    sent=  [67  0]
+On simulator, before sending:    recv =  [10]
+plan number 17
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.63642215729 - count:  68 - on task 1 before sending:    data =  [68  0]
+simTime: 4.37087202072 realTime: 6.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [67  0]
+On simulator after recv:    sent=  [68  0]
+On simulator, before sending:    recv =  [10]
+plan number 17
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 4.43627905846 realTime: 6.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 4.70185303688 - count:  69 - on task 1 before sending:    data =  [69  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [68  0]
+On simulator after recv:    sent=  [69  0]
+On simulator, before sending:    recv =  [10]
+plan number 17
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.76723814011 - count:  70 - on task 1 before sending:    data =  [70  0]
+simTime: 4.50168704987 realTime: 6.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [69  0]
+On simulator after recv:    sent=  [70  0]
+On simulator, before sending:    recv =  [10]
+plan number 17
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.8325343132 - count:  71 - on task 1 before sending:    data =  [71  0]
+simTime: 4.56698203087 realTime: 7.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [70  0]
+On simulator after recv:    sent=  [71  0]
+On simulator, before sending:    recv =  [10]
+plan number 18
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 4.6323800087 realTime: 7.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 4.89793515205 - count:  72 - on task 1 before sending:    data =  [72  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [71  0]
+On simulator after recv:    sent=  [72  0]
+On simulator, before sending:    recv =  [10]
+plan number 18
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 4.9771091938 - count:  73 - on task 1 before sending:    data =  [73  0]
+simTime: 4.71154999733 realTime: 7.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [72  0]
+On simulator after recv:    sent=  [73  0]
+On simulator, before sending:    recv =  [10]
+plan number 18
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.0425491333 - count:  74 - on task 1 before sending:    data =  [74  0]
+simTime: 4.77699303627 realTime: 7.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [73  0]
+On simulator after recv:    sent=  [74  0]
+On simulator, before sending:    recv =  [10]
+plan number 18
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.10810518265 - count:  75 - on task 1 before sending:    data =  [75  0]
+simTime: 4.84255003929 realTime: 7.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [74  0]
+On simulator after recv:    sent=  [75  0]
+On simulator, before sending:    recv =  [10]
+plan number 19
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 4.90811610222 realTime: 7.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 5.17367315292 - count:  76 - on task 1 before sending:    data =  [76  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [75  0]
+On simulator after recv:    sent=  [76  0]
+On simulator, before sending:    recv =  [10]
+plan number 19
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.2392179966 - count:  77 - on task 1 before sending:    data =  [77  0]
+simTime: 4.97366523743 realTime: 7.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [76  0]
+On simulator after recv:    sent=  [77  0]
+On simulator, before sending:    recv =  [10]
+plan number 19
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.30469679832 - count:  78 - on task 1 before sending:    data =  [78  0]
+simTime: 5.03914117813 realTime: 7.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [77  0]
+On simulator after recv:    sent=  [78  0]
+On simulator, before sending:    recv =  [10]
+plan number 19
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.37028074265 - count:  79 - on task 1 before sending:    data =  [79  0]
+simTime: 5.10472607613 realTime: 7.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [78  0]
+On simulator after recv:    sent=  [79  0]
+On simulator, before sending:    recv =  [10]
+plan number 20
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.43578767776 - count:  80 - on task 1 before sending:    data =  [80  0]
+simTime: 5.1702299118 realTime: 7.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [79  0]
+On simulator after recv:    sent=  [80  0]
+On simulator, before sending:    recv =  [10]
+plan number 20
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.5013127327 - count:  81 - on task 1 before sending:    data =  [81  0]
+simTime: 5.23575592041 realTime: 8.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [80  0]
+On simulator after recv:    sent=  [81  0]
+On simulator, before sending:    recv =  [10]
+plan number 20
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 5.30131077766 realTime: 8.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 5.56686973572 - count:  82 - on task 1 before sending:    data =  [82  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [81  0]
+On simulator after recv:    sent=  [82  0]
+On simulator, before sending:    recv =  [10]
+plan number 20
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.63235473633 - count:  83 - on task 1 before sending:    data =  [83  0]
+simTime: 5.36679577827 realTime: 8.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [82  0]
+On simulator after recv:    sent=  [83  0]
+On simulator, before sending:    recv =  [10]
+plan number 21
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.69777274132 - count:  84 - on task 1 before sending:    data =  [84  0]
+simTime: 5.43221282959 realTime: 8.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [83  0]
+On simulator after recv:    sent=  [84  0]
+On simulator, before sending:    recv =  [10]
+plan number 21
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.76321363449 - count:  85 - on task 1 before sending:    data =  [85  0]
+simTime: 5.49765300751 realTime: 8.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [84  0]
+On simulator after recv:    sent=  [85  0]
+On simulator, before sending:    recv =  [10]
+plan number 21
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.82859277725 - count:  86 - on task 1 before sending:    data =  [86  0]
+simTime: 5.56303286552 realTime: 8.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [85  0]
+On simulator after recv:    sent=  [86  0]
+On simulator, before sending:    recv =  [10]
+plan number 21
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.8940486908 - count:  87 - on task 1 before sending:    data =  [87  0]
+simTime: 5.62848782539 realTime: 8.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [86  0]
+On simulator after recv:    sent=  [87  0]
+On simulator, before sending:    recv =  [10]
+plan number 22
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 5.95952749252 - count:  88 - on task 1 before sending:    data =  [88  0]
+simTime: 5.69396686554 realTime: 8.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [87  0]
+On simulator after recv:    sent=  [88  0]
+On simulator, before sending:    recv =  [10]
+plan number 22
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.02506232262 - count:  89 - on task 1 before sending:    data =  [89  0]
+simTime: 5.75950098038 realTime: 8.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [88  0]
+On simulator after recv:    sent=  [89  0]
+On simulator, before sending:    recv =  [10]
+plan number 22
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.09047818184 - count:  90 - on task 1 before sending:    data =  [90  0]
+simTime: 5.82491397858 realTime: 8.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [89  0]
+On simulator after recv:    sent=  [90  0]
+On simulator, before sending:    recv =  [10]
+plan number 22
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 5.89042592049 realTime: 9.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 6.15599226952 - count:  91 - on task 1 before sending:    data =  [91  0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [90  0]
+On simulator after recv:    sent=  [91  0]
+On simulator, before sending:    recv =  [10]
+plan number 23
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.22137928009 - count:  92 - on task 1 before sending:    data =  [92  0]
+simTime: 5.95581507683 realTime: 9.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [91  0]
+On simulator after recv:    sent=  [92  0]
+On simulator, before sending:    recv =  [10]
+plan number 23
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.28677225113 - count:  93 - on task 1 before sending:    data =  [93  0]
+simTime: 6.02120995522 realTime: 9.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [92  0]
+On simulator after recv:    sent=  [93  0]
+On simulator, before sending:    recv =  [10]
+plan number 23
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.35216426849 - count:  94 - on task 1 before sending:    data =  [94  0]
+simTime: 6.08659887314 realTime: 9.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [93  0]
+On simulator after recv:    sent=  [94  0]
+On simulator, before sending:    recv =  [10]
+plan number 23
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.41761016846 - count:  95 - on task 1 before sending:    data =  [95  0]
+simTime: 6.15204596519 realTime: 9.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [94  0]
+On simulator after recv:    sent=  [95  0]
+On simulator, before sending:    recv =  [10]
+plan number 24
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.48305535316 - count:  96 - on task 1 before sending:    data =  [96  0]
+simTime: 6.21748900414 realTime: 9.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [95  0]
+On simulator after recv:    sent=  [96  0]
+on task 1 after recv:    data =  [10]
+Now: 6.54840326309 - count:  97 - on task 1 before sending:    data =  [97  0]
+on task 1 before recv:   data =  [10]
+On simulator, before sending:    recv =  [10]
+plan number 24
+Two segment are parallel
+simTime: 6.28283810616 realTime: 9.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+On simulator before recv:   data =  [96  0]
+On simulator after recv:    sent=  [97  0]
+On simulator, before sending:    recv =  [10]
+plan number 24
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.61386442184 - count:  98 - on task 1 before sending:    data =  [98  0]
+simTime: 6.34829711914 realTime: 9.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [97  0]
+On simulator after recv:    sent=  [98  0]
+On simulator, before sending:    recv =  [10]
+plan number 24
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.67931938171 - count:  99 - on task 1 before sending:    data =  [99  0]
+simTime: 6.4137532711 realTime: 9.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [98  0]
+On simulator after recv:    sent=  [99  0]
+On simulator, before sending:    recv =  [10]
+plan number 25
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.74475741386 - count:  100 - on task 1 before sending:    data =  [100   0]
+simTime: 6.47919034958 realTime: 9.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [99  0]
+On simulator after recv:    sent=  [100   0]
+On simulator, before sending:    recv =  [10]
+plan number 25
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.81030750275 - count:  101 - on task 1 before sending:    data =  [101   0]
+simTime: 6.54473924637 realTime: 10.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [100   0]
+On simulator after recv:    sent=  [101   0]
+On simulator, before sending:    recv =  [10]
+plan number 25
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.87577557564 - count:  102 - on task 1 before sending:    data =  [102   0]
+simTime: 6.61020803452 realTime: 10.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [101   0]
+On simulator after recv:    sent=  [102   0]
+On simulator, before sending:    recv =  [10]
+plan number 25
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 6.94118857384 - count:  103 - on task 1 before sending:    data =  [103   0]
+simTime: 6.67562103271 realTime: 10.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [102   0]
+On simulator after recv:    sent=  [103   0]
+On simulator, before sending:    recv =  [10]
+plan number 26
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.02097654343 - count:  104 - on task 1 before sending:    data =  [104   0]
+simTime: 6.75540494919 realTime: 10.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [103   0]
+On simulator after recv:    sent=  [104   0]
+On simulator, before sending:    recv =  [10]
+plan number 26
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.08630561829 - count:  105 - on task 1 before sending:    data =  [105   0]
+simTime: 6.8207359314 realTime: 10.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [104   0]
+On simulator after recv:    sent=  [105   0]
+On simulator, before sending:    recv =  [10]
+plan number 26
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 6.88622784615 realTime: 10.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 7.15179872513 - count:  106 - on task 1 before sending:    data =  [106   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [105   0]
+On simulator after recv:    sent=  [106   0]
+On simulator, before sending:    recv =  [10]
+plan number 26
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.21724486351 - count:  107 - on task 1 before sending:    data =  [107   0]
+simTime: 6.9516749382 realTime: 10.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [106   0]
+On simulator after recv:    sent=  [107   0]
+On simulator, before sending:    recv =  [10]
+plan number 27
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.28270077705 - count:  108 - on task 1 before sending:    data =  [108   0]
+simTime: 7.01713204384 realTime: 10.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [107   0]
+On simulator after recv:    sent=  [108   0]
+On simulator, before sending:    recv =  [10]
+plan number 27
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.34811377525 - count:  109 - on task 1 before sending:    data =  [109   0]
+simTime: 7.08254408836 realTime: 10.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [108   0]
+On simulator after recv:    sent=  [109   0]
+On simulator, before sending:    recv =  [10]
+plan number 27
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.4136288166 - count:  110 - on task 1 before sending:    data =  [110   0]
+simTime: 7.14806008339 realTime: 10.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [109   0]
+On simulator after recv:    sent=  [110   0]
+On simulator, before sending:    recv =  [10]
+plan number 27
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.47904396057 - count:  111 - on task 1 before sending:    data =  [111   0]
+simTime: 7.21347212791 realTime: 11.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [110   0]
+On simulator after recv:    sent=  [111   0]
+On simulator, before sending:    recv =  [10]
+plan number 28
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.54441690445 - count:  112 - on task 1 before sending:    data =  [112   0]
+simTime: 7.27884626389 realTime: 11.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [111   0]
+On simulator after recv:    sent=  [112   0]
+On simulator, before sending:    recv =  [10]
+plan number 28
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.60978007317 - count:  113 - on task 1 before sending:    data =  [113   0]
+simTime: 7.34420919418 realTime: 11.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [112   0]
+On simulator after recv:    sent=  [113   0]
+On simulator, before sending:    recv =  [10]
+plan number 28
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.67513799667 - count:  114 - on task 1 before sending:    data =  [114   0]
+simTime: 7.40956521034 realTime: 11.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [113   0]
+On simulator after recv:    sent=  [114   0]
+On simulator, before sending:    recv =  [10]
+plan number 28
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.74056100845 - count:  115 - on task 1 before sending:    data =  [115   0]
+simTime: 7.47498822212 realTime: 11.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [114   0]
+On simulator after recv:    sent=  [115   0]
+On simulator, before sending:    recv =  [10]
+plan number 29
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.80592608452 - count:  116 - on task 1 before sending:    data =  [116   0]
+simTime: 7.54035234451 realTime: 11.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [115   0]
+On simulator after recv:    sent=  [116   0]
+On simulator, before sending:    recv =  [10]
+plan number 29
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.87129712105 - count:  117 - on task 1 before sending:    data =  [117   0]
+simTime: 7.60572242737 realTime: 11.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [116   0]
+On simulator after recv:    sent=  [117   0]
+On simulator, before sending:    recv =  [10]
+plan number 29
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 7.93663716316 - count:  118 - on task 1 before sending:    data =  [118   0]
+simTime: 7.67106342316 realTime: 11.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [117   0]
+On simulator after recv:    sent=  [118   0]
+On simulator, before sending:    recv =  [10]
+plan number 29
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.00203418732 - count:  119 - on task 1 before sending:    data =  [119   0]
+simTime: 7.73645949364 realTime: 11.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [118   0]
+On simulator after recv:    sent=  [119   0]
+On simulator, before sending:    recv =  [10]
+plan number 30
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.06741213799 - count:  120 - on task 1 before sending:    data =  [120   0]
+simTime: 7.8018386364 realTime: 11.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [119   0]
+On simulator after recv:    sent=  [120   0]
+On simulator, before sending:    recv =  [10]
+plan number 30
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.1328291893 - count:  121 - on task 1 before sending:    data =  [121   0]
+simTime: 7.86725258827 realTime: 12.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [120   0]
+On simulator after recv:    sent=  [121   0]
+On simulator, before sending:    recv =  [10]
+plan number 30
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.1981883049 - count:  122 - on task 1 before sending:    data =  [122   0]
+simTime: 7.93261575699 realTime: 12.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [121   0]
+On simulator after recv:    sent=  [122   0]
+On simulator, before sending:    recv =  [10]
+plan number 30
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.26358127594 - count:  123 - on task 1 before sending:    data =  [123   0]
+simTime: 7.998005867 realTime: 12.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [122   0]
+On simulator after recv:    sent=  [123   0]
+On simulator, before sending:    recv =  [10]
+plan number 31
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.32898449898 - count:  124 - on task 1 before sending:    data =  [124   0]
+simTime: 8.0634098053 realTime: 12.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [123   0]
+On simulator after recv:    sent=  [124   0]
+On simulator, before sending:    recv =  [10]
+plan number 31
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.39449644089 - count:  125 - on task 1 before sending:    data =  [125   0]
+simTime: 8.12892079353 realTime: 12.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [124   0]
+On simulator after recv:    sent=  [125   0]
+On simulator, before sending:    recv =  [10]
+plan number 31
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.45993733406 - count:  126 - on task 1 before sending:    data =  [126   0]
+simTime: 8.19436073303 realTime: 12.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [125   0]
+On simulator after recv:    sent=  [126   0]
+On simulator, before sending:    recv =  [10]
+plan number 31
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.52529931068 - count:  127 - on task 1 before sending:    data =  [127   0]
+simTime: 8.25972080231 realTime: 12.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [126   0]
+On simulator after recv:    sent=  [127   0]
+On simulator, before sending:    recv =  [10]
+plan number 32
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.590675354 - count:  128 - on task 1 before sending:    data =  [128   0]
+simTime: 8.32509589195 realTime: 12.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [127   0]
+On simulator after recv:    sent=  [128   0]
+On simulator, before sending:    recv =  [10]
+plan number 32
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.65603518486 - count:  129 - on task 1 before sending:    data =  [129   0]
+simTime: 8.3904569149 realTime: 12.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [128   0]
+On simulator after recv:    sent=  [129   0]
+On simulator, before sending:    recv =  [10]
+plan number 32
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.72139000893 - count:  130 - on task 1 before sending:    data =  [130   0]
+simTime: 8.45580983162 realTime: 12.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [129   0]
+On simulator after recv:    sent=  [130   0]
+On simulator, before sending:    recv =  [10]
+plan number 32
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.78681087494 - count:  131 - on task 1 before sending:    data =  [131   0]
+simTime: 8.52122998238 realTime: 13.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [130   0]
+On simulator after recv:    sent=  [131   0]
+On simulator, before sending:    recv =  [10]
+plan number 33
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.85221886635 - count:  132 - on task 1 before sending:    data =  [132   0]
+simTime: 8.58663892746 realTime: 13.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [131   0]
+On simulator after recv:    sent=  [132   0]
+On simulator, before sending:    recv =  [10]
+plan number 33
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 8.65213608742 realTime: 13.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 8.91774082184 - count:  133 - on task 1 before sending:    data =  [133   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [132   0]
+On simulator after recv:    sent=  [133   0]
+On simulator, before sending:    recv =  [10]
+plan number 33
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 8.98319578171 - count:  134 - on task 1 before sending:    data =  [134   0]
+simTime: 8.7176091671 realTime: 13.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [133   0]
+On simulator after recv:    sent=  [134   0]
+On simulator, before sending:    recv =  [10]
+plan number 33
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.04861593246 - count:  135 - on task 1 before sending:    data =  [135   0]
+simTime: 8.7830312252 realTime: 13.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [134   0]
+On simulator after recv:    sent=  [135   0]
+On simulator, before sending:    recv =  [10]
+plan number 34
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 8.85935330391 realTime: 13.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 9.12494397163 - count:  136 - on task 1 before sending:    data =  [136   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [135   0]
+On simulator after recv:    sent=  [136   0]
+On simulator, before sending:    recv =  [10]
+plan number 34
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 8.92479729652 realTime: 13.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 9.19038200378 - count:  137 - on task 1 before sending:    data =  [137   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [136   0]
+On simulator after recv:    sent=  [137   0]
+On simulator, before sending:    recv =  [10]
+plan number 34
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 8.99027729034 realTime: 13.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 9.25586295128 - count:  138 - on task 1 before sending:    data =  [138   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [137   0]
+On simulator after recv:    sent=  [138   0]
+On simulator, before sending:    recv =  [10]
+plan number 34
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.32129311562 - count:  139 - on task 1 before sending:    data =  [139   0]
+simTime: 9.05570840836 realTime: 13.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [138   0]
+On simulator after recv:    sent=  [139   0]
+On simulator, before sending:    recv =  [10]
+plan number 35
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.38682413101 - count:  140 - on task 1 before sending:    data =  [140   0]
+simTime: 9.12123847008 realTime: 13.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [139   0]
+On simulator after recv:    sent=  [140   0]
+On simulator, before sending:    recv =  [10]
+plan number 35
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.45222020149 - count:  141 - on task 1 before sending:    data =  [141   0]
+simTime: 9.18663835526 realTime: 14.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [140   0]
+On simulator after recv:    sent=  [141   0]
+On simulator, before sending:    recv =  [10]
+plan number 35
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.51766514778 - count:  142 - on task 1 before sending:    data =  [142   0]
+simTime: 9.25207734108 realTime: 14.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [141   0]
+On simulator after recv:    sent=  [142   0]
+On simulator, before sending:    recv =  [10]
+plan number 35
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 9.31749725342 realTime: 14.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 9.58308696747 - count:  143 - on task 1 before sending:    data =  [143   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [142   0]
+On simulator after recv:    sent=  [143   0]
+On simulator, before sending:    recv =  [10]
+plan number 36
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.64849114418 - count:  144 - on task 1 before sending:    data =  [144   0]
+simTime: 9.38290524483 realTime: 14.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [143   0]
+On simulator after recv:    sent=  [144   0]
+On simulator, before sending:    recv =  [10]
+plan number 36
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.71397900581 - count:  145 - on task 1 before sending:    data =  [145   0]
+simTime: 9.4483923912 realTime: 14.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [144   0]
+On simulator after recv:    sent=  [145   0]
+On simulator, before sending:    recv =  [10]
+plan number 36
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.77938199043 - count:  146 - on task 1 before sending:    data =  [146   0]
+simTime: 9.5137963295 realTime: 14.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [145   0]
+On simulator after recv:    sent=  [146   0]
+On simulator, before sending:    recv =  [10]
+plan number 36
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.84487485886 - count:  147 - on task 1 before sending:    data =  [147   0]
+simTime: 9.5792901516 realTime: 14.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [146   0]
+On simulator after recv:    sent=  [147   0]
+On simulator, before sending:    recv =  [10]
+plan number 37
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.91028189659 - count:  148 - on task 1 before sending:    data =  [148   0]
+simTime: 9.64469504356 realTime: 14.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [147   0]
+On simulator after recv:    sent=  [148   0]
+On simulator, before sending:    recv =  [10]
+plan number 37
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 9.97572875023 - count:  149 - on task 1 before sending:    data =  [149   0]
+simTime: 9.71013998985 realTime: 14.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [148   0]
+On simulator after recv:    sent=  [149   0]
+On simulator, before sending:    recv =  [10]
+plan number 37
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.0411095619 - count:  150 - on task 1 before sending:    data =  [150   0]
+simTime: 9.77552103996 realTime: 14.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [149   0]
+On simulator after recv:    sent=  [150   0]
+On simulator, before sending:    recv =  [10]
+plan number 37
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.1065354347 - count:  151 - on task 1 before sending:    data =  [151   0]
+simTime: 9.84094524384 realTime: 15.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [150   0]
+On simulator after recv:    sent=  [151   0]
+On simulator, before sending:    recv =  [10]
+plan number 38
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.1719484329 - count:  152 - on task 1 before sending:    data =  [152   0]
+simTime: 9.90635514259 realTime: 15.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [151   0]
+On simulator after recv:    sent=  [152   0]
+On simulator, before sending:    recv =  [10]
+plan number 38
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.2374334335 - count:  153 - on task 1 before sending:    data =  [153   0]
+simTime: 9.97184300423 realTime: 15.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [152   0]
+On simulator after recv:    sent=  [153   0]
+On simulator, before sending:    recv =  [10]
+plan number 38
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.3028614521 - count:  154 - on task 1 before sending:    data =  [154   0]
+simTime: 10.037268877 realTime: 15.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [153   0]
+On simulator after recv:    sent=  [154   0]
+On simulator, before sending:    recv =  [10]
+plan number 38
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.368442297 - count:  155 - on task 1 before sending:    data =  [155   0]
+simTime: 10.102850914 realTime: 15.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [154   0]
+On simulator after recv:    sent=  [155   0]
+On simulator, before sending:    recv =  [10]
+plan number 39
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.433879137 - count:  156 - on task 1 before sending:    data =  [156   0]
+simTime: 10.1682870388 realTime: 15.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [155   0]
+On simulator after recv:    sent=  [156   0]
+On simulator, before sending:    recv =  [10]
+plan number 39
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 10.2337141037 realTime: 15.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 10.4993083477 - count:  157 - on task 1 before sending:    data =  [157   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [156   0]
+On simulator after recv:    sent=  [157   0]
+On simulator, before sending:    recv =  [10]
+plan number 39
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.5647332668 - count:  158 - on task 1 before sending:    data =  [158   0]
+simTime: 10.2991411686 realTime: 15.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [157   0]
+On simulator after recv:    sent=  [158   0]
+On simulator, before sending:    recv =  [10]
+plan number 39
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.6302132607 - count:  159 - on task 1 before sending:    data =  [159   0]
+simTime: 10.3646183014 realTime: 15.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [158   0]
+On simulator after recv:    sent=  [159   0]
+On simulator, before sending:    recv =  [10]
+plan number 40
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.6956751347 - count:  160 - on task 1 before sending:    data =  [160   0]
+simTime: 10.4300792217 realTime: 15.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [159   0]
+On simulator after recv:    sent=  [160   0]
+On simulator, before sending:    recv =  [10]
+plan number 40
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.7610702515 - count:  161 - on task 1 before sending:    data =  [161   0]
+simTime: 10.4954771996 realTime: 16.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [160   0]
+On simulator after recv:    sent=  [161   0]
+On simulator, before sending:    recv =  [10]
+plan number 40
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.8264553547 - count:  162 - on task 1 before sending:    data =  [162   0]
+simTime: 10.560860157 realTime: 16.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [161   0]
+On simulator after recv:    sent=  [162   0]
+On simulator, before sending:    recv =  [10]
+plan number 40
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.8918433189 - count:  163 - on task 1 before sending:    data =  [163   0]
+simTime: 10.6262471676 realTime: 16.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [162   0]
+On simulator after recv:    sent=  [163   0]
+On simulator, before sending:    recv =  [10]
+plan number 41
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 10.9572713375 - count:  164 - on task 1 before sending:    data =  [164   0]
+simTime: 10.6916749477 realTime: 16.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [163   0]
+On simulator after recv:    sent=  [164   0]
+On simulator, before sending:    recv =  [10]
+plan number 41
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.0227634907 - count:  165 - on task 1 before sending:    data =  [165   0]
+simTime: 10.7571640015 realTime: 16.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [164   0]
+On simulator after recv:    sent=  [165   0]
+On simulator, before sending:    recv =  [10]
+plan number 41
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.088180542 - count:  166 - on task 1 before sending:    data =  [166   0]
+simTime: 10.8225800991 realTime: 16.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [165   0]
+On simulator after recv:    sent=  [166   0]
+On simulator, before sending:    recv =  [10]
+plan number 41
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.1668334007 - count:  167 - on task 1 before sending:    data =  [167   0]
+simTime: 10.9012260437 realTime: 16.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [166   0]
+On simulator after recv:    sent=  [167   0]
+On simulator, before sending:    recv =  [10]
+plan number 42
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.2322614193 - count:  168 - on task 1 before sending:    data =  [168   0]
+simTime: 10.9666600227 realTime: 16.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [167   0]
+On simulator after recv:    sent=  [168   0]
+On simulator, before sending:    recv =  [10]
+plan number 42
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.2976853848 - count:  169 - on task 1 before sending:    data =  [169   0]
+simTime: 11.0320839882 realTime: 16.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [168   0]
+On simulator after recv:    sent=  [169   0]
+On simulator, before sending:    recv =  [10]
+plan number 42
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.3632183075 - count:  170 - on task 1 before sending:    data =  [170   0]
+simTime: 11.0976159573 realTime: 16.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [169   0]
+On simulator after recv:    sent=  [170   0]
+On simulator, before sending:    recv =  [10]
+plan number 42
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.4286584854 - count:  171 - on task 1 before sending:    data =  [171   0]
+simTime: 11.1630549431 realTime: 17.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [170   0]
+On simulator after recv:    sent=  [171   0]
+On simulator, before sending:    recv =  [10]
+plan number 43
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.4940674305 - count:  172 - on task 1 before sending:    data =  [172   0]
+simTime: 11.2284648418 realTime: 17.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [171   0]
+On simulator after recv:    sent=  [172   0]
+on task 1 after recv:    data =  [10]
+Now: 11.5594904423 - count:  173 - on task 1 before sending:    data =  [173   0]
+on task 1 before recv:   data =  [10]
+On simulator, before sending:    recv =  [10]
+plan number 43
+Two segment are parallel
+simTime: 11.2938859463 realTime: 17.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+On simulator before recv:   data =  [172   0]
+On simulator after recv:    sent=  [173   0]
+On simulator, before sending:    recv =  [10]
+plan number 43
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.624922514 - count:  174 - on task 1 before sending:    data =  [174   0]
+simTime: 11.3593161106 realTime: 17.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [173   0]
+On simulator after recv:    sent=  [174   0]
+On simulator, before sending:    recv =  [10]
+plan number 43
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.6903345585 - count:  175 - on task 1 before sending:    data =  [175   0]
+simTime: 11.4247272015 realTime: 17.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [174   0]
+On simulator after recv:    sent=  [175   0]
+On simulator, before sending:    recv =  [10]
+plan number 44
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.7557475567 - count:  176 - on task 1 before sending:    data =  [176   0]
+simTime: 11.4901411533 realTime: 17.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [175   0]
+On simulator after recv:    sent=  [176   0]
+On simulator, before sending:    recv =  [10]
+plan number 44
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.8211574554 - count:  177 - on task 1 before sending:    data =  [177   0]
+simTime: 11.5555491447 realTime: 17.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [176   0]
+On simulator after recv:    sent=  [177   0]
+On simulator, before sending:    recv =  [10]
+plan number 44
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.8866086006 - count:  178 - on task 1 before sending:    data =  [178   0]
+simTime: 11.6210010052 realTime: 17.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [177   0]
+On simulator after recv:    sent=  [178   0]
+On simulator, before sending:    recv =  [10]
+plan number 44
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 11.9519884586 - count:  179 - on task 1 before sending:    data =  [179   0]
+simTime: 11.6863820553 realTime: 17.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [178   0]
+On simulator after recv:    sent=  [179   0]
+On simulator, before sending:    recv =  [10]
+plan number 45
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.0174114704 - count:  180 - on task 1 before sending:    data =  [180   0]
+simTime: 11.7518041134 realTime: 17.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [179   0]
+On simulator after recv:    sent=  [180   0]
+On simulator, before sending:    recv =  [10]
+plan number 45
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.0827643871 - count:  181 - on task 1 before sending:    data =  [181   0]
+simTime: 11.8171551228 realTime: 18.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [180   0]
+On simulator after recv:    sent=  [181   0]
+On simulator, before sending:    recv =  [10]
+plan number 45
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.1482214928 - count:  182 - on task 1 before sending:    data =  [182   0]
+simTime: 11.8826081753 realTime: 18.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [181   0]
+On simulator after recv:    sent=  [182   0]
+On simulator, before sending:    recv =  [10]
+plan number 45
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.213650465 - count:  183 - on task 1 before sending:    data =  [183   0]
+simTime: 11.9480412006 realTime: 18.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [182   0]
+On simulator after recv:    sent=  [183   0]
+On simulator, before sending:    recv =  [10]
+plan number 46
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.2790966034 - count:  184 - on task 1 before sending:    data =  [184   0]
+simTime: 12.0134851933 realTime: 18.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [183   0]
+On simulator after recv:    sent=  [184   0]
+On simulator, before sending:    recv =  [10]
+plan number 46
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.3445425034 - count:  185 - on task 1 before sending:    data =  [185   0]
+simTime: 12.0789301395 realTime: 18.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [184   0]
+On simulator after recv:    sent=  [185   0]
+On simulator, before sending:    recv =  [10]
+plan number 46
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.4099915028 - count:  186 - on task 1 before sending:    data =  [186   0]
+simTime: 12.1443760395 realTime: 18.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [185   0]
+On simulator after recv:    sent=  [186   0]
+On simulator, before sending:    recv =  [10]
+plan number 46
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.4754095078 - count:  187 - on task 1 before sending:    data =  [187   0]
+simTime: 12.2097959518 realTime: 18.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [186   0]
+On simulator after recv:    sent=  [187   0]
+On simulator, before sending:    recv =  [10]
+plan number 47
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 12.2751710415 realTime: 18.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 12.5407834053 - count:  188 - on task 1 before sending:    data =  [188   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [187   0]
+On simulator after recv:    sent=  [188   0]
+On simulator, before sending:    recv =  [10]
+plan number 47
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.6061732769 - count:  189 - on task 1 before sending:    data =  [189   0]
+simTime: 12.3405590057 realTime: 18.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [188   0]
+On simulator after recv:    sent=  [189   0]
+On simulator, before sending:    recv =  [10]
+plan number 47
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.6715693474 - count:  190 - on task 1 before sending:    data =  [190   0]
+simTime: 12.4059538841 realTime: 18.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [189   0]
+On simulator after recv:    sent=  [190   0]
+On simulator, before sending:    recv =  [10]
+plan number 47
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.7370042801 - count:  191 - on task 1 before sending:    data =  [191   0]
+simTime: 12.4713928699 realTime: 19.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [190   0]
+On simulator after recv:    sent=  [191   0]
+On simulator, before sending:    recv =  [10]
+plan number 48
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.8023900986 - count:  192 - on task 1 before sending:    data =  [192   0]
+simTime: 12.5367767811 realTime: 19.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [191   0]
+On simulator after recv:    sent=  [192   0]
+On simulator, before sending:    recv =  [10]
+plan number 48
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.8678159714 - count:  193 - on task 1 before sending:    data =  [193   0]
+simTime: 12.6021995544 realTime: 19.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [192   0]
+On simulator after recv:    sent=  [193   0]
+On simulator, before sending:    recv =  [10]
+plan number 48
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.933316946 - count:  194 - on task 1 before sending:    data =  [194   0]
+simTime: 12.6677014828 realTime: 19.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [193   0]
+On simulator after recv:    sent=  [194   0]
+On simulator, before sending:    recv =  [10]
+plan number 48
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 12.998800993 - count:  195 - on task 1 before sending:    data =  [195   0]
+simTime: 12.733184576 realTime: 19.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [194   0]
+On simulator after recv:    sent=  [195   0]
+On simulator, before sending:    recv =  [10]
+plan number 49
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 12.7986526489 realTime: 19.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 13.0642728806 - count:  196 - on task 1 before sending:    data =  [196   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [195   0]
+On simulator after recv:    sent=  [196   0]
+On simulator, before sending:    recv =  [10]
+plan number 49
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 12.8641557693 realTime: 19.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 13.1297976971 - count:  197 - on task 1 before sending:    data =  [197   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [196   0]
+On simulator after recv:    sent=  [197   0]
+On simulator, before sending:    recv =  [10]
+plan number 49
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.2097127438 - count:  198 - on task 1 before sending:    data =  [198   0]
+simTime: 12.9440917969 realTime: 19.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [197   0]
+On simulator after recv:    sent=  [198   0]
+On simulator, before sending:    recv =  [10]
+plan number 49
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.2752239704 - count:  199 - on task 1 before sending:    data =  [199   0]
+simTime: 13.0096058846 realTime: 19.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [198   0]
+On simulator after recv:    sent=  [199   0]
+On simulator, before sending:    recv =  [10]
+plan number 50
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.3406729698 - count:  200 - on task 1 before sending:    data =  [200   0]
+simTime: 13.0750558376 realTime: 19.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [199   0]
+On simulator after recv:    sent=  [200   0]
+On simulator, before sending:    recv =  [10]
+plan number 50
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.4061188698 - count:  201 - on task 1 before sending:    data =  [201   0]
+simTime: 13.1404998302 realTime: 20.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [200   0]
+On simulator after recv:    sent=  [201   0]
+On simulator, before sending:    recv =  [10]
+plan number 50
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.4715907574 - count:  202 - on task 1 before sending:    data =  [202   0]
+simTime: 13.2059726715 realTime: 20.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [201   0]
+On simulator after recv:    sent=  [202   0]
+On simulator, before sending:    recv =  [10]
+plan number 50
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.5370857716 - count:  203 - on task 1 before sending:    data =  [203   0]
+simTime: 13.2714686394 realTime: 20.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [202   0]
+On simulator after recv:    sent=  [203   0]
+On simulator, before sending:    recv =  [10]
+plan number 51
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.6025688648 - count:  204 - on task 1 before sending:    data =  [204   0]
+simTime: 13.3369495869 realTime: 20.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [203   0]
+On simulator after recv:    sent=  [204   0]
+On simulator, before sending:    recv =  [10]
+plan number 51
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.6680588722 - count:  205 - on task 1 before sending:    data =  [205   0]
+simTime: 13.4024384022 realTime: 20.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [204   0]
+On simulator after recv:    sent=  [205   0]
+On simulator, before sending:    recv =  [10]
+plan number 51
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.7335669994 - count:  206 - on task 1 before sending:    data =  [206   0]
+simTime: 13.467946291 realTime: 20.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [205   0]
+On simulator after recv:    sent=  [206   0]
+On simulator, before sending:    recv =  [10]
+plan number 51
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.7992069721 - count:  207 - on task 1 before sending:    data =  [207   0]
+simTime: 13.5335874557 realTime: 20.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [206   0]
+On simulator after recv:    sent=  [207   0]
+On simulator, before sending:    recv =  [10]
+plan number 52
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.8646020889 - count:  208 - on task 1 before sending:    data =  [208   0]
+simTime: 13.5989832878 realTime: 20.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [207   0]
+On simulator after recv:    sent=  [208   0]
+On simulator, before sending:    recv =  [10]
+plan number 52
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 13.9299910069 - count:  209 - on task 1 before sending:    data =  [209   0]
+simTime: 13.6643671989 realTime: 20.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [208   0]
+On simulator after recv:    sent=  [209   0]
+On simulator, before sending:    recv =  [10]
+plan number 52
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 13.7309763432 realTime: 20.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 13.9965991974 - count:  210 - on task 1 before sending:    data =  [210   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [209   0]
+On simulator after recv:    sent=  [210   0]
+On simulator, before sending:    recv =  [10]
+plan number 52
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.0620582104 - count:  211 - on task 1 before sending:    data =  [211   0]
+simTime: 13.7964363098 realTime: 21.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [210   0]
+On simulator after recv:    sent=  [211   0]
+On simulator, before sending:    recv =  [10]
+plan number 53
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 13.8618514538 realTime: 21.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 14.127477169 - count:  212 - on task 1 before sending:    data =  [212   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [211   0]
+On simulator after recv:    sent=  [212   0]
+On simulator, before sending:    recv =  [10]
+plan number 53
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 13.9272704124 realTime: 21.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 14.192895174 - count:  213 - on task 1 before sending:    data =  [213   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [212   0]
+On simulator after recv:    sent=  [213   0]
+On simulator, before sending:    recv =  [10]
+plan number 53
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.2582912445 - count:  214 - on task 1 before sending:    data =  [214   0]
+simTime: 13.9926671982 realTime: 21.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [213   0]
+On simulator after recv:    sent=  [214   0]
+On simulator, before sending:    recv =  [10]
+plan number 53
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.323769331 - count:  215 - on task 1 before sending:    data =  [215   0]
+simTime: 14.0581459999 realTime: 21.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [214   0]
+On simulator after recv:    sent=  [215   0]
+On simulator, before sending:    recv =  [10]
+plan number 54
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.389354229 - count:  216 - on task 1 before sending:    data =  [216   0]
+simTime: 14.1237280369 realTime: 21.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [215   0]
+On simulator after recv:    sent=  [216   0]
+On simulator, before sending:    recv =  [10]
+plan number 54
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.4547431469 - count:  217 - on task 1 before sending:    data =  [217   0]
+simTime: 14.1891169548 realTime: 21.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [216   0]
+On simulator after recv:    sent=  [217   0]
+On simulator, before sending:    recv =  [10]
+plan number 54
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.5201792717 - count:  218 - on task 1 before sending:    data =  [218   0]
+simTime: 14.2545537949 realTime: 21.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [217   0]
+On simulator after recv:    sent=  [218   0]
+On simulator, before sending:    recv =  [10]
+plan number 54
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 14.3201057911 realTime: 21.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 14.5857381821 - count:  219 - on task 1 before sending:    data =  [219   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [218   0]
+On simulator after recv:    sent=  [219   0]
+On simulator, before sending:    recv =  [10]
+plan number 55
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.6511251926 - count:  220 - on task 1 before sending:    data =  [220   0]
+simTime: 14.3854968548 realTime: 21.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [219   0]
+On simulator after recv:    sent=  [220   0]
+On simulator, before sending:    recv =  [10]
+plan number 55
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.7165663242 - count:  221 - on task 1 before sending:    data =  [221   0]
+simTime: 14.450937748 realTime: 22.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [220   0]
+On simulator after recv:    sent=  [221   0]
+On simulator, before sending:    recv =  [10]
+plan number 55
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.7819793224 - count:  222 - on task 1 before sending:    data =  [222   0]
+simTime: 14.5163445473 realTime: 22.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [221   0]
+On simulator after recv:    sent=  [222   0]
+On simulator, before sending:    recv =  [10]
+plan number 55
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.8474543095 - count:  223 - on task 1 before sending:    data =  [223   0]
+simTime: 14.5818254948 realTime: 22.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [222   0]
+On simulator after recv:    sent=  [223   0]
+On simulator, before sending:    recv =  [10]
+plan number 56
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.9128222466 - count:  224 - on task 1 before sending:    data =  [224   0]
+simTime: 14.6471924782 realTime: 22.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [223   0]
+On simulator after recv:    sent=  [224   0]
+On simulator, before sending:    recv =  [10]
+plan number 56
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 14.978246212 - count:  225 - on task 1 before sending:    data =  [225   0]
+simTime: 14.71261549 realTime: 22.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [224   0]
+On simulator after recv:    sent=  [225   0]
+On simulator, before sending:    recv =  [10]
+plan number 56
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.0436222553 - count:  226 - on task 1 before sending:    data =  [226   0]
+simTime: 14.7779903412 realTime: 22.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [225   0]
+On simulator after recv:    sent=  [226   0]
+On simulator, before sending:    recv =  [10]
+plan number 56
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.1090393066 - count:  227 - on task 1 before sending:    data =  [227   0]
+simTime: 14.8434083462 realTime: 22.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [226   0]
+On simulator after recv:    sent=  [227   0]
+On simulator, before sending:    recv =  [10]
+plan number 57
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.1744632721 - count:  228 - on task 1 before sending:    data =  [228   0]
+simTime: 14.9088292122 realTime: 22.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [227   0]
+On simulator after recv:    sent=  [228   0]
+On simulator, before sending:    recv =  [10]
+plan number 57
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 14.9872891903 realTime: 22.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 15.2529273033 - count:  229 - on task 1 before sending:    data =  [229   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [228   0]
+On simulator after recv:    sent=  [229   0]
+On simulator, before sending:    recv =  [10]
+plan number 57
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.3183102608 - count:  230 - on task 1 before sending:    data =  [230   0]
+simTime: 15.0526771545 realTime: 22.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [229   0]
+On simulator after recv:    sent=  [230   0]
+On simulator, before sending:    recv =  [10]
+plan number 57
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.3838732243 - count:  231 - on task 1 before sending:    data =  [231   0]
+simTime: 15.1182382107 realTime: 23.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [230   0]
+On simulator after recv:    sent=  [231   0]
+On simulator, before sending:    recv =  [10]
+plan number 58
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.4493563175 - count:  232 - on task 1 before sending:    data =  [232   0]
+simTime: 15.1837222576 realTime: 23.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [231   0]
+On simulator after recv:    sent=  [232   0]
+On simulator, before sending:    recv =  [10]
+plan number 58
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.5147924423 - count:  233 - on task 1 before sending:    data =  [233   0]
+simTime: 15.2491533756 realTime: 23.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [232   0]
+On simulator after recv:    sent=  [233   0]
+On simulator, before sending:    recv =  [10]
+plan number 58
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.5802164078 - count:  234 - on task 1 before sending:    data =  [234   0]
+simTime: 15.3145813942 realTime: 23.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [233   0]
+On simulator after recv:    sent=  [234   0]
+On simulator, before sending:    recv =  [10]
+plan number 58
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.6456615925 - count:  235 - on task 1 before sending:    data =  [235   0]
+simTime: 15.3800244331 realTime: 23.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [234   0]
+On simulator after recv:    sent=  [235   0]
+On simulator, before sending:    recv =  [10]
+plan number 59
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 15.4454026222 realTime: 23.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 15.7110445499 - count:  236 - on task 1 before sending:    data =  [236   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [235   0]
+On simulator after recv:    sent=  [236   0]
+On simulator, before sending:    recv =  [10]
+plan number 59
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.7764856815 - count:  237 - on task 1 before sending:    data =  [237   0]
+simTime: 15.5108475685 realTime: 23.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [236   0]
+On simulator after recv:    sent=  [237   0]
+On simulator, before sending:    recv =  [10]
+plan number 59
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.8418505192 - count:  238 - on task 1 before sending:    data =  [238   0]
+simTime: 15.5762107372 realTime: 23.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [237   0]
+On simulator after recv:    sent=  [238   0]
+On simulator, before sending:    recv =  [10]
+plan number 59
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.9072554111 - count:  239 - on task 1 before sending:    data =  [239   0]
+simTime: 15.6416146755 realTime: 23.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [238   0]
+On simulator after recv:    sent=  [239   0]
+On simulator, before sending:    recv =  [10]
+plan number 60
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 15.9726684093 - count:  240 - on task 1 before sending:    data =  [240   0]
+simTime: 15.7070286274 realTime: 23.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [239   0]
+On simulator after recv:    sent=  [240   0]
+On simulator, before sending:    recv =  [10]
+plan number 60
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.0381035805 - count:  241 - on task 1 before sending:    data =  [241   0]
+simTime: 15.7724626064 realTime: 24.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [240   0]
+On simulator after recv:    sent=  [241   0]
+On simulator, before sending:    recv =  [10]
+plan number 60
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.1035506725 - count:  242 - on task 1 before sending:    data =  [242   0]
+simTime: 15.8379094601 realTime: 24.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [241   0]
+On simulator after recv:    sent=  [242   0]
+On simulator, before sending:    recv =  [10]
+plan number 60
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 15.9033293724 realTime: 24.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 16.1689765453 - count:  243 - on task 1 before sending:    data =  [243   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [242   0]
+On simulator after recv:    sent=  [243   0]
+On simulator, before sending:    recv =  [10]
+plan number 61
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.2344145775 - count:  244 - on task 1 before sending:    data =  [244   0]
+simTime: 15.9687714577 realTime: 24.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [243   0]
+On simulator after recv:    sent=  [244   0]
+On simulator, before sending:    recv =  [10]
+plan number 61
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.2998075485 - count:  245 - on task 1 before sending:    data =  [245   0]
+simTime: 16.0341644287 realTime: 24.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [244   0]
+On simulator after recv:    sent=  [245   0]
+On simulator, before sending:    recv =  [10]
+plan number 61
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.365272522 - count:  246 - on task 1 before sending:    data =  [246   0]
+simTime: 16.0996263027 realTime: 24.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [245   0]
+On simulator after recv:    sent=  [246   0]
+On simulator, before sending:    recv =  [10]
+plan number 61
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 16.1650292873 realTime: 24.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 16.4306745529 - count:  247 - on task 1 before sending:    data =  [247   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [246   0]
+On simulator after recv:    sent=  [247   0]
+On simulator, before sending:    recv =  [10]
+plan number 62
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.4961116314 - count:  248 - on task 1 before sending:    data =  [248   0]
+simTime: 16.2304651737 realTime: 24.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [247   0]
+On simulator after recv:    sent=  [248   0]
+on task 1 after recv:    data =  [10]
+Now: 16.5615327358 - count:  249 - on task 1 before sending:    data =  [249   0]
+on task 1 before recv:   data =  [10]
+On simulator, before sending:    recv =  [10]
+plan number 62
+Two segment are parallel
+simTime: 16.2958893776 realTime: 24.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+On simulator before recv:   data =  [248   0]
+On simulator after recv:    sent=  [249   0]
+On simulator, before sending:    recv =  [10]
+plan number 62
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.6269907951 - count:  250 - on task 1 before sending:    data =  [250   0]
+simTime: 16.3613462448 realTime: 24.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [249   0]
+On simulator after recv:    sent=  [250   0]
+On simulator, before sending:    recv =  [10]
+plan number 62
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.6924166679 - count:  251 - on task 1 before sending:    data =  [251   0]
+simTime: 16.4267680645 realTime: 25.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [250   0]
+On simulator after recv:    sent=  [251   0]
+On simulator, before sending:    recv =  [10]
+plan number 63
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.757806778 - count:  252 - on task 1 before sending:    data =  [252   0]
+simTime: 16.4921579361 realTime: 25.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [251   0]
+On simulator after recv:    sent=  [252   0]
+On simulator, before sending:    recv =  [10]
+plan number 63
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.8232638836 - count:  253 - on task 1 before sending:    data =  [253   0]
+simTime: 16.557615757 realTime: 25.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [252   0]
+On simulator after recv:    sent=  [253   0]
+On simulator, before sending:    recv =  [10]
+plan number 63
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.8887758255 - count:  254 - on task 1 before sending:    data =  [254   0]
+simTime: 16.6231257915 realTime: 25.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [253   0]
+On simulator after recv:    sent=  [254   0]
+On simulator, before sending:    recv =  [10]
+plan number 63
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 16.9541797638 - count:  255 - on task 1 before sending:    data =  [255   0]
+simTime: 16.6885306835 realTime: 25.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [254   0]
+On simulator after recv:    sent=  [255   0]
+On simulator, before sending:    recv =  [10]
+plan number 64
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.0195777416 - count:  256 - on task 1 before sending:    data =  [256   0]
+simTime: 16.753926754 realTime: 25.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [255   0]
+On simulator after recv:    sent=  [256   0]
+On simulator, before sending:    recv =  [10]
+plan number 64
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.0850436687 - count:  257 - on task 1 before sending:    data =  [257   0]
+simTime: 16.8193907738 realTime: 25.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [256   0]
+On simulator after recv:    sent=  [257   0]
+On simulator, before sending:    recv =  [10]
+plan number 64
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 16.8847527504 realTime: 25.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 17.1504056454 - count:  258 - on task 1 before sending:    data =  [258   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [257   0]
+On simulator after recv:    sent=  [258   0]
+On simulator, before sending:    recv =  [10]
+plan number 64
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.2158327103 - count:  259 - on task 1 before sending:    data =  [259   0]
+simTime: 16.9501817226 realTime: 25.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [258   0]
+On simulator after recv:    sent=  [259   0]
+On simulator, before sending:    recv =  [10]
+plan number 65
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 17.0313096046 realTime: 25.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 17.2969655991 - count:  260 - on task 1 before sending:    data =  [260   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [259   0]
+On simulator after recv:    sent=  [260   0]
+On simulator, before sending:    recv =  [10]
+plan number 65
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 17.0967316628 realTime: 26.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 17.3624155521 - count:  261 - on task 1 before sending:    data =  [261   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [260   0]
+On simulator after recv:    sent=  [261   0]
+On simulator, before sending:    recv =  [10]
+plan number 65
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.4279475212 - count:  262 - on task 1 before sending:    data =  [262   0]
+simTime: 17.1622924805 realTime: 26.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [261   0]
+On simulator after recv:    sent=  [262   0]
+On simulator, before sending:    recv =  [10]
+plan number 65
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.4933876991 - count:  263 - on task 1 before sending:    data =  [263   0]
+simTime: 17.22773242 realTime: 26.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [262   0]
+On simulator after recv:    sent=  [263   0]
+On simulator, before sending:    recv =  [10]
+plan number 66
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.5588605404 - count:  264 - on task 1 before sending:    data =  [264   0]
+simTime: 17.2932054996 realTime: 26.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [263   0]
+On simulator after recv:    sent=  [264   0]
+On simulator, before sending:    recv =  [10]
+plan number 66
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.6243145466 - count:  265 - on task 1 before sending:    data =  [265   0]
+simTime: 17.3586575985 realTime: 26.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [264   0]
+On simulator after recv:    sent=  [265   0]
+On simulator, before sending:    recv =  [10]
+plan number 66
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.6897475719 - count:  266 - on task 1 before sending:    data =  [266   0]
+simTime: 17.4240896702 realTime: 26.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [265   0]
+On simulator after recv:    sent=  [266   0]
+On simulator, before sending:    recv =  [10]
+plan number 66
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.7552266121 - count:  267 - on task 1 before sending:    data =  [267   0]
+simTime: 17.489569664 realTime: 26.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [266   0]
+On simulator after recv:    sent=  [267   0]
+On simulator, before sending:    recv =  [10]
+plan number 67
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.8206706047 - count:  268 - on task 1 before sending:    data =  [268   0]
+simTime: 17.5550136566 realTime: 26.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [267   0]
+On simulator after recv:    sent=  [268   0]
+On simulator, before sending:    recv =  [10]
+plan number 67
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.8861405849 - count:  269 - on task 1 before sending:    data =  [269   0]
+simTime: 17.6204826832 realTime: 26.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [268   0]
+On simulator after recv:    sent=  [269   0]
+On simulator, before sending:    recv =  [10]
+plan number 67
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 17.9516105652 - count:  270 - on task 1 before sending:    data =  [270   0]
+simTime: 17.6859526634 realTime: 26.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [269   0]
+On simulator after recv:    sent=  [270   0]
+On simulator, before sending:    recv =  [10]
+plan number 67
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.0170724392 - count:  271 - on task 1 before sending:    data =  [271   0]
+simTime: 17.7514147758 realTime: 27.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [270   0]
+On simulator after recv:    sent=  [271   0]
+On simulator, before sending:    recv =  [10]
+plan number 68
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.0824935436 - count:  272 - on task 1 before sending:    data =  [272   0]
+simTime: 17.816836834 realTime: 27.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [271   0]
+On simulator after recv:    sent=  [272   0]
+On simulator, before sending:    recv =  [10]
+plan number 68
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 17.8823328018 realTime: 27.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+Now: 18.1479945183 - count:  273 - on task 1 before sending:    data =  [273   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [272   0]
+On simulator after recv:    sent=  [273   0]
+On simulator, before sending:    recv =  [10]
+plan number 68
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.2134256363 - count:  274 - on task 1 before sending:    data =  [274   0]
+simTime: 17.9477658272 realTime: 27.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [273   0]
+On simulator after recv:    sent=  [274   0]
+On simulator, before sending:    recv =  [10]
+plan number 68
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.2788636684 - count:  275 - on task 1 before sending:    data =  [275   0]
+simTime: 18.0132036209 realTime: 27.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [274   0]
+On simulator after recv:    sent=  [275   0]
+On simulator, before sending:    recv =  [10]
+plan number 69
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.3442566395 - count:  276 - on task 1 before sending:    data =  [276   0]
+simTime: 18.0785946846 realTime: 27.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [275   0]
+On simulator after recv:    sent=  [276   0]
+On simulator, before sending:    recv =  [10]
+plan number 69
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.4097168446 - count:  277 - on task 1 before sending:    data =  [277   0]
+simTime: 18.1440527439 realTime: 27.6 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [276   0]
+On simulator after recv:    sent=  [277   0]
+On simulator, before sending:    recv =  [10]
+plan number 69
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.4751358032 - count:  278 - on task 1 before sending:    data =  [278   0]
+simTime: 18.2094726562 realTime: 27.7 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [277   0]
+On simulator after recv:    sent=  [278   0]
+On simulator, before sending:    recv =  [10]
+plan number 69
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.5405757427 - count:  279 - on task 1 before sending:    data =  [279   0]
+simTime: 18.2749116421 realTime: 27.8 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [278   0]
+On simulator after recv:    sent=  [279   0]
+On simulator, before sending:    recv =  [10]
+plan number 70
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.6060857773 - count:  280 - on task 1 before sending:    data =  [280   0]
+simTime: 18.3404185772 realTime: 27.9 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [279   0]
+On simulator after recv:    sent=  [280   0]
+On simulator, before sending:    recv =  [10]
+plan number 70
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.67146492 - count:  281 - on task 1 before sending:    data =  [281   0]
+simTime: 18.4057984352 realTime: 28.0 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [280   0]
+On simulator after recv:    sent=  [281   0]
+On simulator, before sending:    recv =  [10]
+plan number 70
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.7368998528 - count:  282 - on task 1 before sending:    data =  [282   0]
+simTime: 18.4712333679 realTime: 28.1 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [281   0]
+On simulator after recv:    sent=  [282   0]
+On simulator, before sending:    recv =  [10]
+plan number 70
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.8023350239 - count:  283 - on task 1 before sending:    data =  [283   0]
+simTime: 18.536668539 realTime: 28.2 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [282   0]
+On simulator after recv:    sent=  [283   0]
+On simulator, before sending:    recv =  [10]
+plan number 71
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.8677759171 - count:  284 - on task 1 before sending:    data =  [284   0]
+simTime: 18.6021094322 realTime: 28.3 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [283   0]
+On simulator after recv:    sent=  [284   0]
+On simulator, before sending:    recv =  [10]
+plan number 71
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.9331829548 - count:  285 - on task 1 before sending:    data =  [285   0]
+simTime: 18.6675124168 realTime: 28.4 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [284   0]
+On simulator after recv:    sent=  [285   0]
+On simulator, before sending:    recv =  [10]
+plan number 71
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 18.9986350536 - count:  286 - on task 1 before sending:    data =  [286   0]
+simTime: 18.7329673767 realTime: 28.5 segment: 1 pos: 189.689165033 vref: 0 vel: -0.0
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [285   0]
+On simulator after recv:    sent=  [286   0]
+On simulator, before sending:    recv =  [10]
+plan number 71
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 19.064068079 - count:  287 - on task 1 before sending:    data =  [287   0]
+simTime: 18.798397541 realTime: 28.6 segment: 1 pos: 191.681830874 vref: 20 vel: 19.9067317536
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [286   0]
+On simulator after recv:    sent=  [287   0]
+On simulator, before sending:    recv =  [10]
+plan number 72
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 18.8638734818 realTime: 28.7 segment: 1 pos: 193.674985261 vref: 20 vel: 19.9116123291
+Now: 19.1295480728 - count:  288 - on task 1 before sending:    data =  [288   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [287   0]
+On simulator after recv:    sent=  [288   0]
+On simulator, before sending:    recv =  [10]
+plan number 72
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 19.1949732304 - count:  289 - on task 1 before sending:    data =  [289   0]
+simTime: 18.9292993546 realTime: 28.8 segment: 1 pos: 195.668602276 vref: 20 vel: 19.9162339752
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [288   0]
+On simulator after recv:    sent=  [289   0]
+On simulator, before sending:    recv =  [10]
+plan number 72
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 19.2604372501 - count:  290 - on task 1 before sending:    data =  [290   0]
+simTime: 18.994761467 realTime: 28.9 segment: 1 pos: 197.66265797 vref: 20 vel: 19.9206163892
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [289   0]
+On simulator after recv:    sent=  [290   0]
+On simulator, before sending:    recv =  [10]
+plan number 72
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 19.0601766109 realTime: 29.0 segment: 1 pos: 199.657129096 vref: 20 vel: 19.9247665471
+Now: 19.3258571625 - count:  291 - on task 1 before sending:    data =  [291   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [290   0]
+On simulator after recv:    sent=  [291   0]
+On simulator, before sending:    recv =  [10]
+plan number 72
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 19.4036972523 - count:  292 - on task 1 before sending:    data =  [292   0]
+simTime: 19.1380207539 realTime: 29.1 segment: 1 pos: 201.652068741 vref: 20 vel: 19.9294470489
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [291   0]
+On simulator after recv:    sent=  [292   0]
+On simulator, before sending:    recv =  [10]
+plan number 72
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 19.4691493511 - count:  293 - on task 1 before sending:    data =  [293   0]
+simTime: 19.2034707069 realTime: 29.2 segment: 1 pos: 203.6473778 vref: 20 vel: 19.9331375046
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [292   0]
+On simulator after recv:    sent=  [293   0]
+On simulator, before sending:    recv =  [10]
+plan number 72
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+Now: 19.5346283913 - count:  294 - on task 1 before sending:    data =  [294   0]
+simTime: 19.2689495087 realTime: 29.3 segment: 1 pos: 205.643037106 vref: 20 vel: 19.936636463
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [293   0]
+On simulator after recv:    sent=  [294   0]
+On simulator, before sending:    recv =  [10]
+plan number 72
+on task 1 after recv:    data =  [10]
+Two segment are parallel
+simTime: 19.3344314098 realTime: 29.4 segment: 1 pos: 208.691413865 vref: 30 vel: 30.4532838297
+Now: 19.6001164913 - count:  295 - on task 1 before sending:    data =  [295   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [294   0]
+On simulator after recv:    sent=  [295   0]
+On simulator, before sending:    recv =  [10]
+plan number 73
+on task 1 after recv:    data =  [10]
+simTime: 19.3998394012 realTime: 29.5 segment: 1 pos: 211.737418754 vref: 30 vel: 30.4295888405
+Now: 19.6655185223 - count:  296 - on task 1 before sending:    data =  [296   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [295   0]
+On simulator after recv:    sent=  [296   0]
+On simulator, before sending:    recv =  [10]
+plan number 73
+on task 1 after recv:    data =  [10]
+simTime: 19.4653053284 realTime: 29.6 segment: 1 pos: 214.781173769 vref: 30 vel: 30.4071125939
+Now: 19.7309994698 - count:  297 - on task 1 before sending:    data =  [297   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [296   0]
+On simulator after recv:    sent=  [297   0]
+On simulator, before sending:    recv =  [10]
+plan number 73
+on task 1 after recv:    data =  [10]
+simTime: 19.5307371616 realTime: 29.7 segment: 1 pos: 217.822797733 vref: 30 vel: 30.3858234057
+Now: 19.7964224815 - count:  298 - on task 1 before sending:    data =  [298   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [297   0]
+On simulator after recv:    sent=  [298   0]
+On simulator, before sending:    recv =  [10]
+plan number 73
+on task 1 after recv:    data =  [10]
+simTime: 19.5962281227 realTime: 29.8 segment: 1 pos: 221.28335737 vref: 34 vel: 34.5709907679
+Now: 19.8619165421 - count:  299 - on task 1 before sending:    data =  [299   0]
+on task 1 before recv:   data =  [10]
+On simulator before recv:   data =  [298   0]
+On simulator after recv:    sent=  [299   0]
+On simulator, before sending:    recv =  [10]
+finish target distance: 51.2320740124
+arrival time and velocity: 29.8 34.5709907679
+on task 1 after recv:    data =  [10]
+Now: 19.9273877144 - count:  300 - on task 1 before sending:    data =  [300   0]
+on task 1 before recv:   data =  [10]
+result:  [50.0, 42, 24, 30.0, 29.800000000000153, 34.57099076791434]
+2 total processes killed (some possibly by mpiexec during cleanup)

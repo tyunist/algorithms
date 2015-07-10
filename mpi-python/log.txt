@@ -1,0 +1,2 @@
+Now: 2.28881835938e-05 - count:  1 - on task 0 before sending:    data =  [[1, 3] [3, 5, 7]]
+2 total processes killed (some possibly by mpiexec during cleanup)

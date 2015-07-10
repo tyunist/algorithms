@@ -1,0 +1,7 @@
+Usage:
+ 	./dynamic-c Tstable-file Dstable-file max_time
+where	Tstable-file and Dstable-file are stable time and stable distance profiles of the car on corresponding road segment
+	max_time: this set the limit of arrival time
+	E.g:./dynamic-c T.csv D.csv 4000
+-------end--------
+Type Y/N to run the default:./dynamic-c ../../profiles/90STNORMED.csv ../../profiles/90SDNORMED.csv 500:

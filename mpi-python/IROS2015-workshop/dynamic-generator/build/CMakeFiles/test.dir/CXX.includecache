@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/bigdrive/pygame/src/ICRA2015-workshop/test-arrival-configurations/dynamic-generator/src/test.cpp
+list
+-
+vector
+-
+iostream
+-
+iomanip
+-
+functional
+-
+random
+-
+iostream
+-
+chrono
+-
+string
+-
+numeric
+-
+algorithm
+-
+cassert
+-
+

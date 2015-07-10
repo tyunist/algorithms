@@ -1,0 +1,49 @@
+ 1 *******start dynamic********
+  2 25-04-2015 09:17:30: max_time   1000 unit = 0.2 
+  3 25-04-2015 09:17:30: table creation time:   74.6849
+  4 ************************
+  5 25-04-2015 09:17:30: time to extract plans: 0.002712
+  6 ************************
+  7 25-04-2015 09:17:30: End! Total running time:   74.6876
+  8 ************End dynamic programming **********************
+
+
+  
+    1 *******start dynamic********
+  2 25-04-2015 08:37:03: max_time   500, unit = 0.4 
+  3 25-04-2015 08:37:03: table creation time:   29.8611
+  4 ************************
+  5 25-04-2015 08:37:03: time to extract plans: 0.002103
+  6 ************************
+  7 25-04-2015 08:37:03: End! Total running time:   29.8632
+  8 ************End dynamic programming **********************
+  
+  
+  *******start dynamic********
+  2 25-04-2015 08:53:32: max_time   2000
+  3 25-04-2015 08:53:32: table creation time:   309.691
+  4 ************************
+  5 25-04-2015 08:53:32: time to extract plans: 0.004467
+  6 ************************
+  7 25-04-2015 08:53:32: End! Total running time:   309.696
+  8 ************End dynamic programming **********************
+  
+  
+  *****************
+  Bio running time 
+  **************
+  1000 
+  1 Sat Apr 25 10:51:39 2015    : dynamic-c running time:   0.000348091125488
+  2 Sat Apr 25 10:51:41 2015    : bioGenerator running time:    1.66253590584
+  3 *********   Sat Apr 25 10:52:34 2015    : END OF PROGRAM : **********
+  
+  2000
+   1 Sat Apr 25 11:01:04 2015    : dynamic-c running time:   0.00104093551636
+  2 Sat Apr 25 11:01:07 2015    : bioGenerator running time:    2.2159101963
+  3 *********   Sat Apr 25 11:02:05 2015    : END OF PROGRAM : **********
+
+  500 
+    1 Sat Apr 25 11:20:09 2015    : dynamic-c running time:   0.00104594230652
+  2 Sat Apr 25 11:20:11 2015    : bioGenerator running time:    1.82803988457
+  3 *********   Sat Apr 25 11:23:36 2015    : END OF PROGRAM : **********
+
